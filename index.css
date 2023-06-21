@@ -1,0 +1,25 @@
+* {
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.nav {
+    list-style-type: none;
+    display: flex;
+
+}
+
+.nav li {
+    padding-right: 5px;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+.card {
+    margin: 20px;
+}
